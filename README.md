@@ -11,6 +11,11 @@ Además de organizar los archivos, el script genera automáticamente un reporte 
 * **Creación Automática de Directorios:** Crea una carpeta con los 8 dígitos del VIN y mueve allí todo el lote de fotos correspondiente a ese vehículo.
 * **Reporte de Stock Automatizado:** Genera un archivo `.txt` (ej. `Reporte_Stock_DD-MM-YYYY.txt`) con un listado limpio de todos los VINs procesados en la sesión.
 
+## ⚠️ Consideraciones
+Fotos sueltas: Si al finalizar el escaneo quedan fotos en el lote temporal sin que el script haya detectado un código de barras de cierre, estas fotos no se moverán y el script notificará en la consola: "Ojo: Quedaron X fotos sueltas...".
+
+Formato de imagen: Actualmente el script procesa archivos con extensión .jpg y .jpeg (sin distinguir mayúsculas de minúsculas).
+
 ## 🛠️ Requisitos Previos
 
 Para ejecutar este script, necesitas tener instalado Python en tu sistema, junto con las siguientes librerías:
@@ -22,3 +27,5 @@ Puedes instalarlas fácilmente usando pip:
 
 ```bash
 pip install opencv-python pyzbar
+
+
