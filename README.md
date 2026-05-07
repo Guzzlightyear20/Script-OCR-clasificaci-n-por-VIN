@@ -35,7 +35,7 @@ pip install opencv-python pyzbar
     <td align="center"><img width="1868" height="842" alt="Captura de pantalla 2026-05-07 170148" src="https://github.com/user-attachments/assets/0aeb2cb0-51de-4f5f-8536-a2f558fe5ed8" width="100%"><br><b>Script en Proceso</b></td>
   </tr>
   <tr>
-    <td align="center"><img width="1704" height="892" alt="Captura de pantalla 2026-05-07 170205" src="https://github.com/user-attachments/assets/e420c911-eab9-483a-893d-a6e9c6a8524f"<img width="1402" height="914" alt="Captura de pantalla 2026-05-07 170223" src="https://github.com/user-attachments/assets/66f83880-dd89-42a2-969c-d2825d9b4dc4" />
+    <td align="center"><img width="1704" height="892" alt="Captura de pantalla 2026-05-07 170205" src="https://github.com/user-attachments/assets/e420c911-eab9-483a-893d-a6e9c6a8524f"<img width="1402" height="914" alt="Captura de pantalla 2026-05-07 170223" src="https://github.com/user-attachments/assets/66f83880-dd89-42a2-969c-d2825d9b4dc4" 
  width="100%"><br><b>Finalizando</b></td>
     <td align="center"><img width="1402" height="914" alt="Captura de pantalla 2026-05-07 170223" src="https://github.com/user-attachments/assets/81867a6c-85df-4ea4-819e-47586fbb2a9e" width="100%"><br><b>Reporte de Vin</b></td>
   </tr>
